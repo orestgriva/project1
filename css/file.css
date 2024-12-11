@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+
+
+}
+body {
+line-height:1.5;
+font-size:lem;
+font-family:ARIAL,Helvetica,sans-serif;
+
+
+
+}
+#header{
+width:100%;
+height:800px;
+background-image:linear-gradient(to right top,#0202,black),url(../image/img.jpg);
+background-size:cover;
+background-repeat:no-repeat;
+
+
+}
+.nav{
+width:90%;
+margin:0 auto;
+padding-top:40px;
+display:flex;
+justify-content: space-between;
+
+}
+.texy h1{
+texy-align:end;
+margin-top:20%;
+margin-right:20%;
+
+
+
+}
+h1>span{
+font-size:2em;   
+
+
+}
+h1{
+color:white;
+
+}
